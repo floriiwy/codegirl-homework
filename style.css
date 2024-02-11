@@ -1,0 +1,17 @@
+html {
+    color: white;
+    background-color: rgb(216, 200, 240);
+    font: normal 18px sans-serif;
+}
+
+.networks {
+    border: dotted rgb(153, 108, 225);
+    border-radius: 5px;
+}
+
+h1,
+h2,
+p {
+    text-decoration: underline;
+    text-transform: capitalize;
+}
